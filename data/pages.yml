@@ -1,0 +1,20 @@
+- title: Faculty
+  url: faculty
+  sub_pages:
+    - title: Faculty Overview
+      url: overview
+- title: Curriculum
+  url: curriculum
+  sub_pages:
+    - title: Course List
+      url: list
+- title: Research
+  url: research
+  sub_pages:
+    - title: Research Areas
+      url: areas
+- title: News
+  url: news
+  sub_pages: 
+    - title: Recent News
+      url: recent
