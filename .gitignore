@@ -3,3 +3,9 @@
 .DS_Store
 .sass-cache
 build/
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/
+*.psd
