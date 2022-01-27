@@ -1,0 +1,12 @@
+---
+title: Contact Us
+---
+
+%h1= current_resource.data.title
+
+%h5 Shared Email
+%p Please send us an email at our shared inbox:
+%%ul#selector
+  %li= mail_to "imes@drexel.edu"
+
+= partial "partials/email-signup"

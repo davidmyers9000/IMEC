@@ -3,18 +3,18 @@
   sub_pages:
     - title: Faculty Overview
       url: overview
-- title: Courses
-  url: courses
-  sub_pages:
-    - title: Course List
-      url: list
-- title: Research
-  url: research
-  sub_pages:
-    - title: Research Areas
-      url: areas
 - title: News
   url: news
   sub_pages: 
     - title: Recent News
       url: recent
+- title: Events
+  url: events
+  sub_pages:
+    - title: Events List
+      url: list
+- title: About
+  url: about
+  sub_pages:
+    - title: Contact Us
+      url: contact

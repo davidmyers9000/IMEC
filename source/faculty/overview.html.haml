@@ -2,38 +2,29 @@
 layout: two-columns-left-nav
 title: Faculty Overview
 ---
-%h1 Co-Directors
-%hr
-.row
-  .medium-6.columns
-    %h3 Vikas Bhandawat, PhD
-    %p 
-      Associate Professor,
-      %br
-      School of Biomedical Engineering, Science and Health Systems
-      %br
-      = mail_to "vb468@drexel.edu", "Contact", class: "more-link"
+%h1 Faculty
+- data.faculty.each do |f|
+  .row
+    .large-12.columns
+      %img{:src => f.img, :class => "left", :alt => f.name, :style => "width: 150px;"}
+      %h5
+        = f.name
+      %p
+        %em
+          = f.title
+          %br
+          = f.affil
+      %p
+        %strong
+          = link_to "Email", "mailto:" + f.email
+        %br
+        %strong= link_to "Faculty Profile", f.profile
+        %br
+        %strong= link_to "Lab Website", f.lab
+      .clearfix
+      %p
+        %strong Biosketch
+      %p
+        = f.bio
 
-    %br
-    %br 
-  .medium-6.columns
-
-    %h3 Simon Giszter, PhD
-    %p
-      Professor,
-      %br
-      Neurobiology & Anatomy, 
-      %br
-      College of Medicine 
-      %br
-      = mail_to "sg33@drexel.edu", "Contact", class: "more-link"
-    
-
-%h2 Core Faculty
-%hr
-= partial "partials/faculty-core"
-
-
-%h2 Expert Faculty
-%hr
-= partial "partials/faculty-expert"
+  %hr  
