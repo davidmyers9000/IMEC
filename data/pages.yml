@@ -16,5 +16,9 @@
 - title: About
   url: about
   sub_pages:
+    - title: What is Immune Engineering?
+      url: immune-engineering
+    - title: Synergy with Cell and Gene Therapy
+      url: cell-and-gene-therapy
     - title: Contact Us
       url: contact
