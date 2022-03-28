@@ -1,10 +1,21 @@
 ---
 title: Synergy with Cell and Gene Therapy
+layout: two-columns-left-nav
 ---
 
 %h1= current_resource.data.title
 
-%p What is cell and gene therapy, and how does immune engineering make a positive impact?
+%p What is cell and gene therapy, and how does <strong>immune engineering</strong> make a positive impact?
+
+%p 
+  Cell and gene therapy is an emerging field with the high potential to offer a curative therapy. Gene therapy is defined as the use of genetic material such as DNA to manipulate a patient’s cells, and cell therapy is defined as the administration of live whole cells or of a specific cell population to a patient. [
+  %a{:href => "https://www.frontiersin.org/articles/10.3389/fimmu.2018.00153/full"} Source
+  ]
+
+%p 
+  The latest <strong>immune engineering</strong> therapeutic approaches are being currently explored to induce an efficient immune response. Engineered immune cells as therapies is a rapidly growing field that can successfully address complex and refractory disease in ways traditional molecular therapeutics cannot. [
+  %a{:href => "https://www.sciencedirect.com/science/article/pii/S2468451121000829"} Source
+  ]
 
 %table
   %colgroup
@@ -17,47 +28,42 @@ title: Synergy with Cell and Gene Therapy
         Cell and Gene Therapy
       %th
       %th
-        Impact of Immune Engineering
+        Immune Engineering
   %tbody
     %tr
       %td
         %strong Cell Therapy: 
         administers live donor cells to a patient
-      %td
-        &rarr;
+      %td.text-center
+        +
       %td
         Prevents rejection of donor cells
     %tr
       %td
         %strong Gene Therapy: 
         modifies a patient’s genes using molecular biology tools
-      %td
-        &rarr;
+      %td.text-center
+        +
       %td
         Minimizes adverse immune system response
     %tr
       %td
         %strong Cell and Gene Therapy: 
         administers genetically modified cells to a patient or “engineered immune cells”
-      %td
-        &rarr;
+      %td.text-center
+        +
       %td
         Fine-tunes minimizing side effects, reduce variability, and increase potency for hard-to-treat conditions
+%br
+%br
 
-=image_tag "synergy-with-cell-and-gene-therapy.png"
-
-%p When taken together, cell and gene therapy with <a href="immune-engineering">immune engineering</a> looks like this:
-%ul
+.text-center
+  =image_tag "synergy-with-cell-and-gene-therapy.png", alt: "Synergy Diagram", style: "max-width: 480px; height: auto;"
+  %br
+  %br
+  %p Together, Cell and Gene Therapy with <a href="../immune-engineering">Immune Engineering</a> results in:
   %li Genetically engineered cells
   %li Nanoparticles to control immune cell behavior
   %li Use of donor cells without immuneosuppresion
   %li Strategies to avoid rejection of gene therapies
 
-%h5 Industry Partners
-
-%p Initial partners in Cell and Gene Therapy include:
-
-=image_tag "carisma.png", width: "50%"
-=image_tag "interius.png", width: "50%"
-=image_tag "janssen.png", width: "50%"
-=image_tag "mallinckrodt.png", width: "50%"

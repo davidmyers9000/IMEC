@@ -1,31 +1,44 @@
 ---
 title: What is Immune Engineering?
+layout: two-columns-left-nav
 ---
 
 %h1= current_resource.data.title
-
 %p 
   %strong Immune Engineering 
   is a set of tools and technologies to modulate the immune system.
 
-%h5 Examples
+%p Over the past decade the focus of many bioengineers and clinicians has been shifting towards <strong>"immune engineering"</strong> approaches that include but are not limited to engineered biomaterials for vaccines, immunotherapy (immune-modulation), cell and gene therapy, immune microenvironment engineering, and systems immunology. 
+
+%p 
+  These research areas embrace a comprehensive list of translational immunology-associated problems including chronic infections, autoimmune diseases, aggressive cancers, allergies, etc. [
+  %a{:href => "https://biomaterials.org/sigs-and-committees-sigs-and-committees-overview/immune-engineering"} Source
+  ]
+
+
+%h5 Examples of Immune Engineering Approaches
 %ul
   %li Manipulated immune cells as therapeutics (e.g. CAR T cells)
   %li Nanoparticle vaccines (e.g. the Pfizer and Moderna Covid-19 vaccines)
   %li Biomaterials that direct immune cells to behave certain ways upon implantation or injection (e.g. regenerative implants)
 
 %h5 Synergy with Other Fields
-=image_tag "synergy-with-other-fields.png", alt: "Synergy Diagram", style: "width: 100%; height: auto;"
-%br
-%br
-%p Immune Engineering has the following application areas: 
-%ul
-  %li
-    = link_to "Cell and Gene Therapy", "cell-and-gene-therapy"
-    %span{style: "color: red;"} NEW!
-  %li Cancer 
-  %li Autoimmune Disease 
-  %li Traumatic Injury
-  %li Neurogenerative Disease
-  %li Infectious Disease
-  %li Cardiovascular and Metabolic Disease
+.text-center
+  =image_tag "synergy-with-other-fields.png", alt: "Synergy Diagram", style: "max-width: 400px; height: auto;"
+  %br
+  %br
+  %p Immune Engineering has the following application areas: 
+  %p
+    = link_to "Cell and Gene Therapy", "../cell-and-gene-therapy"
+    %br 
+    Cancer 
+    %br 
+    Autoimmune Disease 
+    %br 
+    Traumatic Injury
+    %br 
+    Neurogenerative Disease
+    %br 
+    Infectious Disease
+    %br 
+    Cardiovascular and Metabolic Disease
