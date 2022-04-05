@@ -4,8 +4,14 @@ title: "Recent News"
 
 %h1= current_resource.data.title
 
-%br
-%br
-%p Coming soon
+- data.news.each do |i|
+  %h5= i.month
+  - i.news.each do |n|
+    %p
+      - if n.link.length > 0
+        = link_to n.text, n.link 
+      - else
+        = n.text
+
 %br
 %br

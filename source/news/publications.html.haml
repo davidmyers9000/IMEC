@@ -1,0 +1,16 @@
+---
+title: "Recent Publications"
+---
+
+%h1= current_resource.data.title
+
+%ul.square
+  - data.publications.each do |p|
+    %li
+      = p.citation
+      - if p.doi.length > 0
+        [
+        = link_to "Link","https://doi.org/#{p.doi}"
+        ]
+%br
+%br

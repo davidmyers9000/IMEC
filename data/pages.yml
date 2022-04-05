@@ -8,6 +8,8 @@
   sub_pages: 
     - title: Recent News
       url: recent
+    - title: Recent Publications
+      url: publications
 - title: Events
   url: events
   sub_pages:

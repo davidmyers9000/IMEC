@@ -1,44 +1,44 @@
-- citation: 'L. Tao, S. Ozarkar & V. Bhandawat. 2020 “Mechanisms underlying attraction to odors in walking Drosophila”.  PLoS Comput. Biol 16(3): e1007718. '
-  doi: '10.1371/journal.pcbi.1007718'
-
-- citation: 'G. Antoniak, T. Biswas, N. Cortes, S. Sikdar, C. Chun, V. Bhandawat. 2019 “Spring-loaded inverted pendulum goes through two contraction-extension cycles during the single stance phase of walking”. Biology Open 8: bio043695.'
-  doi: '10.1242/bio.043695'
-
-- citation: L.Tao, S. Ozarkar, J. Beck & V. Bhandawat. 2019 “Statistical structure of locomotion and its modulation by odors”. eLife 8:e41235 
-  doi: '10.7554/eLife.41235'
-
-- citation: C. Chun, T. Biswas & V. Bhandawat. 2018 “Kinematic and biomechanical analyses in Drosophila suggests that most legged locomotion in insects can be understood within a single framework.” (bioRxiv 455246) 
-  doi: '10.1101/455246'
-
-- citation: T. Biswas, S. Rao & V. Bhandawat. 2018 “A simple extension of inverted pendulum template to explain features of slow walking.” Journal of Theoretical Biology 457, 112-123. 
-  doi: '10.1016/j.jtbi.2018.08.027'
-
-- citation: 'C. Hsu & V. Bhandawat. 2016 “Organization of descending neurons in Drosophila.” 2016. Scientific Reports 6: 20259, '
-  doi: '10.1038/srep20259'
-
-- citation: 'S.H. Jung, C. Hueston, V. Bhandawat. 2015. “Odor-identity dependent motor programs underlie behavioral responses to odors.” eLife 4: e11092,. '
-  doi: '10.7554/eLife.11092'
-
-- citation: 'K. Tschida & V. Bhandawat. 2015. “Activity in descending dopaminergic neurons represents but is not required for leg movements in the fruit fly Drosophila.” Physiological Reports 2015 3 (3), Article number: 12322. doi:10.14814/phy2.12322. '
-  doi: '10.14814/phy2.12322'
-
-- citation: V. Bhandawat, G. Maimon, M.H. Dickinson & R.I. Wilson. 2010. “Olfactory modulation of flight in Drosophila is sensitive, selective and rapid.” Journal of Experimental Biology 213, 3625-3635.
-  doi: 
-
-- citation: S.R. Olsen*, V. Bhandawat* & R.I. Wilson. 2010 “Divisive normalization in olfactory population codes.” Neuron 66(2):287-99.
-  doi: 
-
-- citation: 'V. Bhandawat, J. Reisert & K.-W. Yau. 2010. “Signaling by olfactory receptor neuron near threshold.” PNAS 2010 107(43): 18682-18687.'
-  doi: 
-
-- citation: 'J.H Singer, E. Glowatzki , T. Moser , B.W. Strowbridge , V. Bhandawat , A.P. Sampath. 2009. “Functional Properties of Synaptic Transmission in Primary Sense Organs.” Journal of Neuroscience 29: 12802-12806.'
-  doi:
-
-- citation: V. Bhandawat, S.R. Olsen, M.L. Schlief, N. Gouwens & R.I. Wilson. 2007. “Sensory processing in the Drosophila antennal lobe increases separation between ensemble odor representations.” Nature Neuroscience 10:1474-82.
-  doi:
-
-- citation: S.R. Olsen*, V. Bhandawat* & R.I. Wilson. 2007. “Excitatory interactions between olfactory processing channels in the Drosophila antennal lobe.” Neuron 54:89-103.
-  doi:
-
-- citation: V. Bhandawat, J. Reisert, K.-W Yau. 2005. “Elementary response of an olfactory receptor neuron to odorants.” Science 2005, 308, 1931-1934.
-  doi:
+- citation: 'Izmirly, Abdullah M., et al. "Pre-vaccination frequency of circulatory Tfh is associated with robust immune response to TV003 dengue vaccine." PLoS pathogens 18.1 (2022): e1009903'
+  doi: '10.1371/journal.ppat.1009903'
+- citation: 'Bell, Matthew R., and Michele A. Kutzler. "An old problem with new solutions: Strategies to improve vaccine efficacy in the elderly." Advanced Drug Delivery Reviews (2022): 114175'
+  doi: '10.1016/j.addr.2022.114175'
+- citation: 'Mackie, Phillip M., et al. "Functional characterization of the biogenic amine transporters on human macrophages." JCI insight (2022)'
+  doi: '10.1172/jci.insight.151892'
+- citation: 'Hernaez-Estrada, B., A. Gonzalez-Pujana, A. Cuevas, A. Izeta, K.L. Spiller, M. Igartua, E. Santos-Vizcaino, R.M. Hernandez. “Human hair follicle-derived mesenchymal stromal cells from the lower dermal sheath as a competitive alternative for immunomodulation.” Biomedicines, 2022, 10(2): 253'
+  doi: '10.3390/biomedicines10020253'
+- citation: 'Deng, Junjie, et al. "Tailoring the physicochemical properties of nanomaterials for immunomodulation." Advanced drug delivery reviews 180 (2022): 114039'
+  doi: '10.1016/j.addr.2021.114039'
+- citation: 'Li, Peter Y., et al. "PEGylation enables subcutaneously administered nanoparticles to induce antigen-specific immune tolerance." Journal of Controlled Release 331 (2021): 164-175'
+  doi: '10.1016/j.jconrel.2021.01.013'
+- citation: 'Ang, Charles Gotuaco, et al. "Peptide Triazole Thiol Irreversibly Inactivates Metastable HIV-1 Env by Accessing Conformational Triggers Intrinsic to Virus–Cell Entry." Microorganisms 9.6 (2021): 1286'
+  doi: '10.3390/microorganisms9061286'
+- citation: 'Lurier, E.B., V.A. Nash, H.S. Abee, T.B. Wissing, C.V.C. Bouten, A.I.P.M. Smits, K.L. Spiller. “Imparting immunomodulatory to scaffolds by leveraging biotin-avidin interactions.” ACS Biomaterials Science and Engineering, 2021, 7 (12): 5611-5621.'
+  doi: '10.1021/acsbiomaterials.1c01190'
+- citation: 'O’Brien, E.M., K.L. Spiller. “Pro-inflammatory polarization primes macrophages to transition into a distinct M2-like phenotype in response to IL-4.” Journal of Leukocyte Biology, 2021'
+  doi: '10.1002/JLB.3A0520-338R'
+- citation: 'Pappa, Vasiliki, et al. "Neurokinin-1 receptor signaling induces a pro-inflammatory transcriptomic profile in CD16+ monocytes." Journal of Neuroimmunology 353 (2021): 577524.'
+  doi: '10.1016/j.jneuroim.2021.577524'
+- citation: 'Matt, Stephanie M., et al. "Dopamine levels induced by substance abuse alter efficacy of maraviroc and expression of CCR5 conformations on myeloid cells: implications for neuroHIV." Frontiers in immunology 12 (2021)'
+  doi: '10.3389/fimmu.2021.663061'
+- citation: 'Soni, Shreya S., and Christopher B. Rodell. "Polymeric materials for immune engineering: Molecular interaction to biomaterial design." Acta Biomaterialia 133 (2021): 139-152'
+  doi: '10.1016/j.actbio.2021.01.016'
+- citation: 'Nickoloff-Bybel, E. A., et al. "Co-receptor signaling in the pathogenesis of neuroHIV." Retrovirology 18.1 (2021): 1-35'
+  doi: '10.1186/s12977-021-00569-x'
+- citation: 'Gaskill, Peter J., et al. "Advances in Understanding NeuroHIV Associated Changes in Neuroimmune Communication in the Combined Anti-retroviral Therapy (cART) Era." Frontiers in Neurology 12 (2021)'
+  doi: '10.3389/fneur.2021.763448'
+- citation: 'Qiao, Zhen, et al. "Highly stretchable gelatin‐polyacrylamide hydrogel for potential transdermal drug release." Nano Select 2.1 (2021): 107-115'
+  doi: '10.1002/nano.202000087'
+- citation: 'E. Garven, C.B. Rodell, K. Shema, K. Govender, S.E. Cassel, B. Ferrick, G. Kupsho, E. Kung, K.L. Spiller, R. Stevens, A.L. Throckmorton. Tunable Blood Shunt for Neonates with Complex Congenital Heart Defects. Frontiers in Bioengineering and Biotechnology. 9: 734310, 2022. '
+  doi: ''
+- citation: 'C. Pfirschke, R. Zilionis, C. Engblom, M. Messemaker, A.E. Zou, S. Rickelt, N.A. Gort-Freitas, Y. Lin,R. Bill, M. Siwicki, J. Gungabeesoon,  M.M. Sprachman, A.N. Marquard, C.B. Rodell, M.F. Cuccarese, J. Quintana, M.S. Ahmed, R.H. Kohler, V. Savova, R. Weissleder, A.M. Klein, M.J. Pittet. Macrophage-targeted therapy unlocks antitumoral crosstalk between IFN-γ-secreting lymphocytes and IL-12-producing dendritic cells. Cancer Immunology Research. 10(1): 40-55, 2022.'
+  doi: ''
+- citation: 'D.E. Soranno, L. Kirkbride-Romeo, D. Han, C. Altmann, C.B. Rodell. Measurement of glomerular filtration rate reveals that subcapsular hydrogels injection does not impair renal function. Journal of Biomedical Materials Research Part A. 110(3): 652-658, 2022. '
+  doi: ''
+- citation: 'R. Li, T.S.C. Ng, S. Wang, M. Prytyskach, C.B. Rodell, H. Mikula, R.H. Kohler, M.A. Garlin, D.A. Lauffenburger, S. Parangi, D.M. Dinulescu, N. Bardeesy, R. Weissleder, M.A. Miller. Therapeutically reprogrammed nutrient signaling enhances nanoparticulate albumin bound drug uptake and efficacy in KRAS-mutant cancer. Nature Nanotechnology. 16: 833-839, 2021. '
+  doi: '10.1158/2326-6066.CIR-21-0977'
+- citation: 'S.S. Soni, A. Alsasa, C.B. Rodell. Applications of Macrocyclic Host Molecules in Immune Modulation and Therapeutic Delivery. Frontiers in Chemistry. 9: 190, 2021. '
+  doi: ''
+- citation: 'S.S. Soni, C.B. Rodell. Polymeric materials for immune engineering: Molecular interaction to biomaterial design. Acta Biomaterialia. 133: 139-152, 2021. '
+  doi: ''
+- citation: 'C.B. Rodell, P. Baldwin, B. Fernandez, R. Weissleder, S. Sridhar, J.M. Dubach. Quantification of cellular drug biodistribution addresses challenges in evaluating of in vitro and in vivo encapsulated drug delivery. Advanced Therapeutics. 4(3): 202000125, 2021.'
+  doi: ''
